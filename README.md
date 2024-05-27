@@ -1,4 +1,3 @@
-
 # Pneumonia Detection using CNN
 
 ## Overview
